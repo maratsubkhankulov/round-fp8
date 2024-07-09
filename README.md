@@ -1,6 +1,6 @@
 # FP8 stochastic rounding
 
-An implementation of stochastic rounding from bfloat16 to fp8 based on this [article](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/)
+An implementation bfloat16 to fp8 quantization using stochastic rounding based on this [article](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/)
 
 ## Tests
 ```
